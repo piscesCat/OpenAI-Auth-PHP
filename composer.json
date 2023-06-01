@@ -1,0 +1,28 @@
+{
+    "name": "khaiphan/openai-auth",
+    "type": "library",
+    "description": "A PHP library for authenticating with OpenAI",
+    "keywords": [
+        "openai",
+        "authentication",
+        "php",
+        "library",
+        "composer"
+    ],
+    "require": {
+        "rmccue/requests": "^2.0",
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "KhaiPhan\\OpenAi\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+             "name": "Khai Phan",
+             "role": "Developer"
+        }
+    ]
+}
