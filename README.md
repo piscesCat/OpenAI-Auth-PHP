@@ -1,6 +1,6 @@
 ## OpenAIAuth
 
-OpenAIAuth is a Composer package that allows you to authenticate with OpenAI using PHP code.
+OpenAIAuth is a Composer package that allows you to authenticate with OpenAI/ChatGPT using PHP code.
 
 ## Languages
 
